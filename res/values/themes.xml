@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MapleMutoRecipe" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarSize">56sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>
